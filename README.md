@@ -1,1 +1,1 @@
-#Patika html eğitimi kapsamında yaptığım son ödev. CSS bilmeden yaptığım için daha sonra tekrar düzenlenecek.
+#basic html 4
